@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class test : MonoBehaviour {
-
+    GameObject obj;
 	// Use this for initialization
 	void Start () {
 		
